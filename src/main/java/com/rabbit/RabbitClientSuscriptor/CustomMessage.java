@@ -1,4 +1,4 @@
-package com.lineadatascan.RabbitClientSuscriptor;
+package com.rabbit.rabbitclientsuscriptor;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

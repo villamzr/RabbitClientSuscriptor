@@ -1,4 +1,4 @@
-package com.lineadatascan.RabbitClientSuscriptor;
+package com.rabbit.rabbitclientsuscriptor;
 
 import java.net.Socket;
 
